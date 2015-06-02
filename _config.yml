@@ -38,7 +38,7 @@ urlimg: "http://usabilitydesign.github.io/website/images/"
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo_long_wh.png"
 
 
 # Paginates all X entries
@@ -96,7 +96,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "your_author_name"
+      author: "Leigh L Boone"
 
 
 
@@ -180,7 +180,7 @@ og_description:                     "Resorces and articles for usability profess
 #
 # used in _includes/comments.html
 
-disqus_shortname: feelingresponsive
+disqus_shortname: usabilitydesign
 
 
 #      _____                
