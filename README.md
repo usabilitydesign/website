@@ -1,4 +1,5 @@
 
+
 [![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
@@ -48,3 +49,4 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
  [8]: #
  [9]: #
  [10]: #
+
