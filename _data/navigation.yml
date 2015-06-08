@@ -1,7 +1,10 @@
-- title: Blog
+- title: Home
   url: "/"
   side: left
-
+  id: home
+- title: blog
+  url: "/blog/"
+  side: left
 - title: Tools
   url: "/tools/"
   side: left
