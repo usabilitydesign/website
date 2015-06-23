@@ -10,7 +10,7 @@ header:
    image_fullwidth: "A_Bonobo_at_the_San_Diego_Zoo.jpg"
 widget-1:
     title: "Kanbanical"
-    url: 'https://www.google.com/calendar/render?gadgeturl=https://rawgit.com/ineedyourbrain/blockologist/gh-pages/timeblocker/timeblocker3.xml'
+    url: 'https://www.google.com/calendar/render?gadgeturl=https://rawgit.com/ineedyourbrain/blockologist/gh-pages/timeblocker/timeblocker.xml'
     text: '<em>Kanbanical</em> is a kanban-style, calendar-based time blocking tool that integrates with Trello (and JIRA in the near future).'
     image: kanbanical_thumb.png
 widget-2:

@@ -5,6 +5,9 @@
 - title: blog
   url: "/blog/"
   side: left
+- title: Portfolio
+  url: "/portfolio/"
+  side: left
 - title: Tools
   url: "/tools/"
   side: left
