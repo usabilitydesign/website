@@ -6,13 +6,13 @@ categories: jekyll update
 ---
 
 ## What's New For 3.3
-* **New command for starting server**
+* **New command for starting server**<br/>
   ```bundle exec jekyll serve```
-* **No need to use `--watch` anymore**
+* **No need to use `--watch` anymore**<br/>
   Watch happens automatically with `jekyll serve` now
-* **No more default folders....sigh**
+* **No more default folders....sigh**<br/>
   Jekyll is has a default theme that is hidden in the depths o
-* **If you are on EL Capitan, you need to do one more thing!**
+* **If you are on EL Capitan, you need to do one more thing!**<br/>
   https://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011
 
 ## How
