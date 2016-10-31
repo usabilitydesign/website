@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "What you need to know for Jekyll 3.3"
 date:   2016-10-31 07:43:20 -0400
 categories: jekyll update
@@ -12,5 +12,7 @@ categories: jekyll update
   Watch happens automatically with `jekyll serve` now
 * **No more default folders....sigh**
   Jekyll is has a default theme that is hidden in the depths o
+* **If you are on EL Capitan, you need to do one more thing!**
+  https://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011
 
 ## How
