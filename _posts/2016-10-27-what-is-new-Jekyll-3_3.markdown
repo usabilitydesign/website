@@ -14,7 +14,9 @@ categories: jekyll update
   Jekyll is has a default theme that is hidden in the depths of your Ruby installation. To overwrite the default themes and get back the default folders you can:
   1. Download the folders [here]({{site.url}}/downloads/minima-2.0.0_override) and add them to your project.
   2. Use the command `bundle show minima` (or whatever theme you are using besides minima) while in the same directory as your project. This will show you the the default folders and you can copy and past the ones you want to override into your project.
-  3.) Manually make the folders and assets yourself.
+  3.) Manually make the folders and assets yourself.<br/>
+  At any rate your folder structure should look like this:
+  ![folders]({{site.urlimg}}/jekyll_folders.png)
 
 * **If you are on EL Capitan, you need to do one more thing!**<br/>
   Follow these instructions:
