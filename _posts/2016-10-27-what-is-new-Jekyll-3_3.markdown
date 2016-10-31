@@ -11,8 +11,13 @@ categories: jekyll update
 * **No need to use `--watch` anymore**<br/>
   Watch happens automatically with `jekyll serve` now
 * **No more default folders....sigh**<br/>
-  Jekyll is has a default theme that is hidden in the depths o
+  Jekyll is has a default theme that is hidden in the depths of your Ruby installation. To overwrite the default themes and get back the default folders you can:
+  1. Download the folders [here]({{site.url}}/downloads/minima-2.0.0_override) and add them to your project.
+  2. Use the command `bundle show minima` (or whatever theme you are using besides minima) while in the same directory as your project. This will show you the the default folders and you can copy and past the ones you want to override into your project.
+  3.) Manually make the folders and assets yourself.
+
 * **If you are on EL Capitan, you need to do one more thing!**<br/>
-  https://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011
+  Follow these instructions:
+  ```https://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011```
 
 ## How
