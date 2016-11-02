@@ -36,7 +36,17 @@ These files have two parts:
 * the "content" area that is anything below the second "---"
   *  these and are written in markdown (but you can also use HTML)
 
-You will notice that the index file doesn't have any content. That is because most of its content sits in the layout (aka template) called "home.html"
+You will notice that the index file doesn't have any content. That is because most of its content sits in the layout (aka template) called "home.html".
+
+### 2. Include files
+
+These contain "snippets" of code you can add to your "content" files or your "layout" files.
+
+An example is a navigation, something that is on all pages but you don't want to have to copy and paste it on each page. By default, the minima theme has created a navigation "snippet" called "header.html". You can edit it and it will update all the pages because the "header.html" is in the "default.html" layout.
+
+![jekyll include]({{site.urlimg}}/jekyll-layout-include.jpg)
+
+
 
 
 
