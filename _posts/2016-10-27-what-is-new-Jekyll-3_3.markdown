@@ -54,6 +54,13 @@ This is typically where you write the structure of your main content areas and a
 
 ![layout]({{site.urlimg}}/layout.png)
 
+## Remember
+
+Don't change anything in the Site folder because it gets overwritten every time you save your other files.
+
+## Next Week
+
+Next we will learn about SASS and publishing out sites on Github.
 
 
 
