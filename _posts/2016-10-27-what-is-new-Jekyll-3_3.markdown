@@ -24,4 +24,20 @@ categories: jekyll update
   Follow these instructions:
   ```https://jekyllrb.com/docs/troubleshooting/#jekyll-amp-mac-os-x-1011```
 
-## How
+## How To Edit These Files
+
+### 1. Markdown Files
+
+These are your "content" files for your pages.
+
+These files have two parts:
+* the "metadata" that is located between the set of "---"
+  * this area is written in YML. Here you can write any variable you want such as "mynameis: Bob" and reference it with {{page.mynameis}}
+* the "content" area that is anything below the second "---"
+  *  these and are written in markdown (but you can also use HTML)
+
+You will notice that the index file doesn't have any content. That is because most of its content sits in the layout (aka template) called "home.html"
+
+
+
+
