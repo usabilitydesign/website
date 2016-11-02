@@ -46,6 +46,14 @@ An example is a navigation, something that is on all pages but you don't want to
 
 ![jekyll include]({{site.urlimg}}/jekyll-layout-include.jpg)
 
+### 3. Layout Files
+
+This is where you design your templates. Notice, some templates can be based off of other templates (such as default).
+
+This is typically where you write the structure of your main content areas and add in "includes" and "content" tags.
+
+![layout]({{site.urlimg}}/layout.png)
+
 
 
 
